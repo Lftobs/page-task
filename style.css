@@ -239,7 +239,7 @@ i {
       margin-top: -100px;
       color: hsl(193, 100%, 96%);
   }
-@media(max-width:375px){
+@media(max-width:795px){
     header {
         height: 790px;
     }
