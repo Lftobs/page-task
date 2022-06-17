@@ -13,7 +13,7 @@ header {
 }
 .nav {
     display: flex;
-    gap:60%;
+    gap:80%;
     margin-bottom: 55px;
     justify-content: center;
 }
